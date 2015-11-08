@@ -1,7 +1,8 @@
 package com.kotetsuredwood.letsmodreboot;
 
 import com.kotetsuredwood.letsmodreboot.handler.ConfigurationHandler;
-import com.kotetsuredwood.letsmodreboot.init.ModItems;
+import com.kotetsuredwood.letsmodreboot.init.modBlocks;
+import com.kotetsuredwood.letsmodreboot.init.modItems;
 import com.kotetsuredwood.letsmodreboot.proxy.IProxy;
 import com.kotetsuredwood.letsmodreboot.reference.Reference;
 import com.kotetsuredwood.letsmodreboot.utility.LogHelper;
@@ -28,7 +29,8 @@ public class LetsModReboot
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         LogHelper.info("Pre-Initialization complete.");
 
-        ModItems.init();
+        modItems.init();
+        modBlocks.init();
     }
 
     @Mod.EventHandler
