@@ -1,11 +1,29 @@
-[23:12:35] [main/INFO]: Setting user: Player369
-[23:12:36] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:12:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[23:12:42] [Sound Library Loader/INFO]: Sound engine started
-[23:12:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:12:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:12:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[23:12:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:12:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:12:44] [Sound Library Loader/INFO]: Sound engine started
-[23:12:55] [Client thread/INFO]: Stopping!
+[16:45:44] [main/INFO]: Setting user: Player632
+[16:45:45] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:45:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Reboot
+[16:45:52] [Sound Library Loader/INFO]: Sound engine started
+[16:45:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:45:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:45:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Reboot
+[16:45:53] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:45:53] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:45:53] [Sound Library Loader/INFO]: Sound engine started
+[17:03:06] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:03:06] [Server thread/INFO]: Generating keypair
+[17:03:06] [Server thread/INFO]: Preparing start region for level 0
+[17:03:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:03:08] [Server thread/INFO]: Player632[local:E:6f775125] logged in with entity id 153 at (1119.7007196279333, 4.0, -665.9950890399867)
+[17:03:08] [Server thread/INFO]: Player632 joined the game
+[17:03:19] [Server thread/INFO]: Player632 has just earned the achievement [Taking Inventory]
+[17:03:19] [Client thread/INFO]: [CHAT] Player632 has just earned the achievement [Taking Inventory]
+[17:03:23] [Server thread/INFO]: Saving and pausing game...
+[17:03:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:03:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:03:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:05:50] [Server thread/INFO]: Stopping server
+[17:05:50] [Server thread/INFO]: Saving players
+[17:05:50] [Server thread/INFO]: Saving worlds
+[17:05:50] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[17:05:50] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[17:05:50] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[17:05:51] [Client thread/INFO]: Stopping!
